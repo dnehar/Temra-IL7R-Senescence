@@ -1,4 +1,4 @@
-Pipeline used for the analysis in the following publication: 
+Pipeline used for the analysis in the following publication:  
 PMID: 32231301 DOI: 10.1038/s41590-020-0643-3
 
 Pereira, De Maeyer, Covre, Nehar-Belaid et al.
