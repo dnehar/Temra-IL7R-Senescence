@@ -9,7 +9,7 @@ We used single-cell RNA sequencing (scRNA-seq) to investigate the transcriptomes
 CD8+IL-7R+ and CD8+IL-7R− T cells were sorted from each donor resulting in 12 samples. 
 
 
-Abstract: 
+Abstract:   
 Aging is associated with remodeling of the immune system to enable the maintenance of life-long immunity. In the CD8+ T cell
 compartment, aging results in the expansion of highly differentiated cells that exhibit characteristics of cellular senescence. Here
 we found that CD27−CD28−CD8+ T cells lost the signaling activity of the T cell antigen receptor (TCR) and expressed a protein
